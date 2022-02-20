@@ -5,7 +5,7 @@ My apex configurations
 
 ## How to enable it
 - Pull the repo
-- Place the config folder in the (C:\Users\<user>\Saved Games\Respawn\Apex\local)
+- Place the config folder in the (C:\Users\ <user> \Saved Games\Respawn\Apex\local)
 - Set the launch options on steam on Apex to ``` +exec autoexec.cfg ```
 
 ## Launch Options
